@@ -1,1 +1,1 @@
-Hello ubuntu
+This file is mandatory in projects
